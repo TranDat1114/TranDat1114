@@ -7,17 +7,16 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tran-phu-dat-526a82288/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DatTranM4)
 
-**Tran Phu Dat - Aka: Jay Andy**
-
- ![trandat1114's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trandat1114&theme=radical&show_icons=true&hide_border=false&layout=compact)
-<kbd>
-    <img alt="Avatar" style="border-radius:50%" src="https://pbs.twimg.com/profile_images/1673324652343558145/NHOON7xx_400x400.jpg" height="200" width="200"/>
-</kbd>
-
+**🌞 Tran Phu Dat - Aka: Jay Andy**
 ## 🚀 About Me
 - My real Vietnamese name is Tran Phu Dat but you can call me Jay or Andy.
 - I'm full-stack developer based in Ho Chi Minh city, Vietnam.
 - I'm mainly using C# Javascript and Typescript.
+
+-<kbd>
+<img alt="Avatar" src="https://pbs.twimg.com/profile_images/1673324652343558145/NHOON7xx_400x400.jpg" height="200" width="200"/>
+![trandat1114's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trandat1114&theme=radical&show_icons=true&hide_border=false&layout=compact)
+</kbd>-
 
 ## 🤓 My Stats
 ![trandat1114's Stats](https://github-readme-stats.vercel.app/api?username=trandat1114&theme=radical&show_icons=true&hide_border=false&count_private=true)
