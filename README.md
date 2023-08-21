@@ -9,13 +9,15 @@
 
 **Tran Phu Dat - Aka: Jay Andy**
 
-![Logo](https://pbs.twimg.com/profile_images/1673324652343558145/NHOON7xx_400x400.jpg)
+ ![trandat1114's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trandat1114&theme=radical&show_icons=true&hide_border=false&layout=compact)
+<kbd>
+    <img alt="Avatar" style="border-radius:50%" src="https://pbs.twimg.com/profile_images/1673324652343558145/NHOON7xx_400x400.jpg" height="200" width="200"/>
+</kbd>
 
 ## 🚀 About Me
 - My real Vietnamese name is Tran Phu Dat but you can call me Jay or Andy.
 - I'm full-stack developer based in Ho Chi Minh city, Vietnam.
 - I'm mainly using C# Javascript and Typescript.
-- ![trandat1114's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trandat1114&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 ## 🤓 My Stats
 ![trandat1114's Stats](https://github-readme-stats.vercel.app/api?username=trandat1114&theme=radical&show_icons=true&hide_border=false&count_private=true)
