@@ -1,5 +1,5 @@
 
-# Hi, I'm JayAndy! 👋
+# Hi, I'm Jay Andy! 👋
 
 ## 🔗 Links to my social profile
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.dattran.online)
