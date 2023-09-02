@@ -12,6 +12,7 @@
 - My real Vietnamese name is Tran Phu Dat but you can call me Jay or Andy.
 - I'm full-stack developer based in Ho Chi Minh city, Vietnam.
 - I'm mainly using C# Javascript and Typescript.
+- I have 1 year experience about blockchain Solana Network 
 
 -<kbd>
 <img alt="Avatar" src="https://pbs.twimg.com/profile_images/1673324652343558145/NHOON7xx_400x400.jpg" height="200" width="200"/>
