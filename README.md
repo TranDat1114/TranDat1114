@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
         + WPF / Winform
         + ASP.Net Core
         + Blazor Wasm / Razor Page
+    + Cosmos Wasm:
     + JavaScript: 
         + JQuery / AngularJs / Vanila JavaScript
     + Typescript:
