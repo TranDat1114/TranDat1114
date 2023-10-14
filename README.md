@@ -38,16 +38,19 @@ You can click the Preview link to take a look at your changes.
     + Jenkins + Nginx ...
 - **Technology:**
     + C#:
-        + WPF / Winform
-        + ASP.Net Core
-        + Blazor Wasm / Razor Page
+        + WPF / Winform (Desktop Application)
+        + ASP.Net Core (Web Application; Backend)
+        + Blazor Wasm / Razor Page (Web Application; Frontend)
     + Cosmos Wasm:
     + JavaScript: 
-        + JQuery / AngularJs / Vanila JavaScript
+        + JQuery / AngularJs / Vanila JavaScript (Web Application;)
     + Typescript:
-        + ReactJs / NextJs
+        + ReactJs / NextJs (Web Application;)
     + Css:
-        + TailwindCss / Boostrap
+        + TailwindCss / Boostrap (Web Application;)
+    + Python:
+        + Django (Web Application;)
+        + Data visualization with Matplotlib
 - **Relational Database:**
     + Microsoft Sql Server
     + My Sql
