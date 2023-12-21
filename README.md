@@ -55,4 +55,5 @@ You can click the Preview link to take a look at your changes.
     + Microsoft Sql Server
     + My Sql
     + Sql Lite
+    + PostgresSql
 
