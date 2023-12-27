@@ -1,4 +1,3 @@
-
 # Hi, I'm Jay Andy! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Frontend+Developer;Data+Analytics;Devops;Full-Stack+Develeloper)](https://git.io/typing-svg)
 ## 🔗 Links to my social profile
