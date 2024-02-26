@@ -14,7 +14,7 @@
 - I have 1 year experience about blockchain Solana Network 
 
 -<kbd>
-<img alt="Avatar" src="https://pbs.twimg.com/profile_images/1673324652343558145/NHOON7xx_400x400.jpg" height="200" width="200"/>
+<img alt="Avatar" src="herobannerpotj.png" height="200" width="200"/>
 ![trandat1114's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trandat1114&theme=radical&show_icons=true&hide_border=false&layout=compact)
 </kbd>-
 
