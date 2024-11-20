@@ -8,11 +8,8 @@
 
 **🌞 Tran Phu Dat - Aka: Jay Andy**
 ## 🚀 About Me
-- My real Vietnamese name is Tran Phu Dat but you can call me Jay or Andy.
 - I'm full-stack developer based in Ho Chi Minh city, Vietnam.
-🌱 I’m currently learning .NET, Azure, AWS, TypeScript, Next.js and how to build good software.
-- I have 1 year experience about blockchain Solana Network 
-
+  
 -<kbd>
 <img alt="Avatar" src="herobannerpotj.png" height="200" width="200"/>
 ![trandat1114's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trandat1114&theme=radical&show_icons=true&hide_border=false&layout=compact)
@@ -38,25 +35,25 @@ You can click the Preview link to take a look at your changes.
     + Postman / Swagger
     + Docker
     + Kubernetes
-    + Jenkins + Nginx ...
+    + Jenkins + Nginx
+    + RabbitMQ
+    + Elastic Search
+    + Kibana
+          
 - **Technology:**
     + C#:
         + WPF / Winform (Desktop Application)
         + ASP.Net Core (Web Application; Backend)
         + Blazor Wasm / Razor Page (Web Application; Frontend)
-    + Cosmos Wasm:
-    + JavaScript: 
-        + JQuery / AngularJs / Vanila JavaScript (Web Application;)
     + Typescript:
-        + ReactJs / NextJs (Web Application;)
+        + NextJs (Web Application;)
+        + Angular (Web Application;)
     + Css:
         + TailwindCss / Boostrap (Web Application;)
-    + Python:
-        + Django (Web Application;)
-        + Data visualization with Matplotlib
 - **Relational Database:**
     + Microsoft Sql Server
-    + My Sql
     + Sql Lite
     + PostgresSql
-
+- **No SQL:**
+    + MongoDB
+    + Redis
