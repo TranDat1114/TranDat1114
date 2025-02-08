@@ -57,3 +57,6 @@ You can click the Preview link to take a look at your changes.
 - **No SQL:**
     + MongoDB
     + Redis
+
+## LOGO
+ <img alt="Avatar" src="complete.png" height="210" width="400"/>
