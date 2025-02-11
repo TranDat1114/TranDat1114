@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
     + Github
     + Azure / AWS
     + Figma / Adobe Illustrator
-    + Postman / Swagger
+    + Postman / Swagger / Scalar
     + Docker
     + Kubernetes
     + Jenkins + Nginx
