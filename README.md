@@ -21,8 +21,8 @@
 
 ## 🚀 My Stats
 <kbd>
-<img src="https://github-readme-stats.vercel.app/api?username=trandat1114&theme=radical&show_icons=true&hide_border=false&count_private=true" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trandat1114&theme=radical&hide_border=false" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=trandat1114&theme=radical&show_icons=true&hide_border=false&count_private=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trandat1114&theme=radical&hide_border=false" height="160" />
 </kbd>
 <img alt="Logo" src="complete.png" height="200" width="400"/>
 <br clear="both">
