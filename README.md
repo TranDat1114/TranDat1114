@@ -1,62 +1,78 @@
+<div style="background: url('https://www.bolton.ac.uk/assets/Uploads/markus-spiske-iar-afB0QQw-unsplash.jpg'); padding: 20px; border-radius: 8px; color: #00ff00; font-family: 'Courier New', Courier, monospace;">
+
 # Hi, I'm Jay Andy! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Frontend+Developer;Data+Analytics;Devops;Full-Stack+Developer)](https://git.io/typing-svg)
-## 🔗 Links to my social profile
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Frontend+Developer;Data+Analytics;DevOps;Full-Stack+Developer)](https://git.io/typing-svg)
+
+## 🔗 Links to My Social Profiles
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jayandy.id.vn)
 [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Jayzneverzz/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tran-phu-dat-526a82288/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DatTranM4)
 
+## 🌞 About Me
 **🌞 Tran Phu Dat - Aka: Jay Andy**
-## 🚀 About Me
-- I'm full-stack developer based in Ho Chi Minh city, Vietnam.
-  
--<kbd>
+
+- I'm a full-stack developer based in Ho Chi Minh City, Vietnam.
+- Passionate about solving complex problems with elegant solutions.
+
+<kbd>
 <img alt="Avatar" src="herobannerpotj.png" height="200" width="200"/>
-![trandat1114's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trandat1114&theme=radical&show_icons=true&hide_border=false&layout=compact)
-</kbd>-
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=trandat1114&theme=radical&show_icons=true&hide_border=false&layout=compact" height="200" />
+<img align="right" alt="Logo" src="complete.png" height="200" width="400"/>
+</kbd>
 
-## 🤓 My Stats
-![trandat1114's Stats](https://github-readme-stats.vercel.app/api?username=trandat1114&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![trandat1114's Streak](https://github-readme-streak-stats.herokuapp.com/?user=trandat1114&theme=radical&hide_border=false)
-<!---
-TranDat1114/TranDat1114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 My Stats
+<img src="https://github-readme-stats.vercel.app/api?username=trandat1114&theme=radical&show_icons=true&hide_border=false&count_private=true" height="168" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trandat1114&theme=radical&hide_border=false" height="168" />
+<img align="right" height="168" width="168" src="https://github.com/user-attachments/assets/62318c72-790b-48f5-9d7b-16729635ae3e"  />
+<br clear="both">
+
+
 ## 🛠 Skills
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-#### I can using
-- **Tool:**
-    + Github
-    + Azure / AWS
-    + Figma / Adobe Illustrator
-    + Postman / Swagger / Scalar
-    + Docker
-    + Kubernetes
-    + Jenkins + Nginx
-    + RabbitMQ
-    + Elastic Search
-    + Kibana
-          
-- **Technology:**
-    + C#:
-        + WPF / Winform (Desktop Application)
-        + ASP.Net Core (Web Application; Backend)
-        + Blazor Wasm / Razor Page (Web Application; Frontend)
-    + Typescript:
-        + NextJs (Web Application;)
-        + Angular (Web Application;)
-    + Css:
-        + TailwindCss / Boostrap (Web Application;)
-- **Relational Database:**
-    + Microsoft Sql Server
-    + Sql Lite
-    + PostgresSql
-- **No SQL:**
-    + MongoDB
-    + Redis
+### Tools
+- **Version Control:** GitHub
+- **Cloud Services:** Azure, AWS
+- **Design:** Figma, Adobe Illustrator
+- **API Testing:** Postman, Swagger, Scalar
+- **Containerization:** Docker, Kubernetes
+- **CI/CD:** Jenkins, Nginx
+- **Messaging:** RabbitMQ
+- **Search:** Elastic Search, Kibana
 
-## LOGO
- <img alt="Avatar" src="complete.png" height="210" width="400"/>
+### Technologies
+- **C#:**
+  - WPF / WinForms (Desktop Applications)
+  - ASP.NET Core (Web Applications; Backend)
+  - Blazor Wasm / Razor Pages (Web Applications; Frontend)
+- **TypeScript:**
+  - Next.js (Web Applications)
+  - Angular (Web Applications)
+- **CSS:**
+  - TailwindCSS, Bootstrap (Web Applications)
+
+### Databases
+- **Relational Databases:**
+  - Microsoft SQL Server
+  - SQLite
+  - PostgreSQL
+- **NoSQL:**
+  - MongoDB
+  - Redis
+
+</div>
