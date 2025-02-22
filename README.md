@@ -19,8 +19,10 @@
 <img alt="Avatar" src="herobannerpotj.png" height="200" width="200"/>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=trandat1114&theme=radical&show_icons=true&hide_border=false&layout=compact" height="200" />
 </kbd>
-<img align="right"  height="200" width="200" src="https://github.com/user-attachments/assets/62318c72-790b-48f5-9d7b-16729635ae3e"  />
 
+<kbd align="right">
+<img align="right"  height="200" width="200" src="https://github.com/user-attachments/assets/62318c72-790b-48f5-9d7b-16729635ae3e"  />
+</kbd>
 
 ## 🚀 My Stats
 <kbd>
@@ -30,7 +32,7 @@
 
 <hr/>
 
-<img align="right" alt="Logo" src="complete.png" height="150" width="300"/>
+<img align="right" alt="Logo" src="complete.png" height="150" width="290"/>
 
 > "Coding's thought’s symphony-where logic meets art, and programmers craft timeless masterpieces"
 >> J.A
