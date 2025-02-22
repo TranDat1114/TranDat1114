@@ -15,16 +15,16 @@
 - I'm a full-stack developer based in Ho Chi Minh City, Vietnam.
 - Passionate about solving complex problems with elegant solutions.
 
-<kbd>
 <img alt="Avatar" src="herobannerpotj.png" height="200" width="200"/>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=trandat1114&theme=radical&show_icons=true&hide_border=false&layout=compact" height="200" />
-<img align="right" alt="Logo" src="complete.png" height="200" width="400"/>
-</kbd>
+<img align="right" height="200" width="200" src="https://github.com/user-attachments/assets/62318c72-790b-48f5-9d7b-16729635ae3e"  />
 
 ## 🚀 My Stats
-<img src="https://github-readme-stats.vercel.app/api?username=trandat1114&theme=radical&show_icons=true&hide_border=false&count_private=true" height="168" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trandat1114&theme=radical&hide_border=false" height="168" />
-<img align="right" height="168" width="168" src="https://github.com/user-attachments/assets/62318c72-790b-48f5-9d7b-16729635ae3e"  />
+<kbd>
+<img src="https://github-readme-stats.vercel.app/api?username=trandat1114&theme=radical&show_icons=true&hide_border=false&count_private=true" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trandat1114&theme=radical&hide_border=false" height="170" />
+</kbd>
+<img alt="Logo" src="complete.png" height="200" width="400"/>
 <br clear="both">
 
 
