@@ -30,7 +30,7 @@
 
 <hr/>
 
-<img align="right" alt="Logo" src="complete.png" height="200" width="400"/>
+<img align="right" alt="Logo" src="complete.png" height="150" width="300"/>
 
 > "Coding's thought’s symphony-where logic meets art, and programmers craft timeless masterpieces"
 >> J.A
