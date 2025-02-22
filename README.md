@@ -21,7 +21,7 @@
 </kbd>
 
 <kbd align="right">
-<img align="right"  height="200" width="200" src="https://github.com/user-attachments/assets/62318c72-790b-48f5-9d7b-16729635ae3e"  />
+<img align="right"  height="200" width="200" src="smile-nod.gif"  />
 </kbd>
 
 ## 🚀 My Stats
