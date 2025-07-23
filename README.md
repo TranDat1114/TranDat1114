@@ -1,16 +1,16 @@
 # Hi, I'm Jay Andy! 👋
 
-| ![Avatar](herobannerpotj.png) | ![Logo](logo.png) |
-|:---:|:---:|
-
-## My Stats
-
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trandat1114&theme=radical&show_icons=true&hide_border=false&layout=compact) | ![My Stats](https://github-readme-stats.vercel.app/api?username=trandat1114&theme=radical&show_icons=true&hide_border=false&count_private=true) | ![Smile Nod](smile-nod.gif) |
+| ![Avatar](herobannerpotj.png) | ![Logo](logo.png) |![Smile Nod](smile-nod.gif) |
 |:---:|:---:|:---:|
 
 > **“Coding's thought’s symphony — where logic meets art, and programmers craft timeless masterpieces.”**
 >
 > _— J.A_
+
+## My Stats
+
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trandat1114&theme=radical&show_icons=true&hide_border=false&layout=compact) | ![My Stats](https://github-readme-stats.vercel.app/api?username=trandat1114&theme=radical&show_icons=true&hide_border=false&count_private=true) |
+|:---:|:---:|
 
 ## Skills
 
