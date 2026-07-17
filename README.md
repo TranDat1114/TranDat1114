@@ -7,11 +7,6 @@
 >
 > *— **J.A** 🌟*
 
-## Stats
-
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trandat1114&theme=radical&show_icons=true&hide_border=false&layout=compact) | ![My Stats](https://github-readme-stats.vercel.app/api?username=trandat1114&theme=radical&show_icons=true&hide_border=false&count_private=true) |
-|:---:|:---:|
-
 ## Skills
 
 [![JavaScript](favicon-32x32.png)](https://jayandy.id.vn)
