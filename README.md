@@ -7,6 +7,8 @@
 >
 > *— **J.A** 🌟*
 
+## LeetCode
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=TranDat1114&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
 ## Skills
 
 [![JavaScript](favicon-32x32.png)](https://jayandy.id.vn)
